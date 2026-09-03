@@ -1,13 +1,12 @@
 ---
-title: "Ethical Considerations in Deploying LLMs for Real-World Applications"
+title: "Ethical Frameworks for Responsible Large Language Model Deployment"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2025-01-10-ethical-llms
-excerpt: 'This study examines ethical challenges in LLM deployment, including bias mitigation and privacy concerns, proposing a framework for responsible AI integration.'
+excerpt: 'This paper establishes a novel ethical framework for deploying large language models responsibly, addressing fairness, transparency, and safety concerns in real-world applications.'
 date: 2025-01-10
-venue: 'Advances in Neural Information Processing Systems 37 (NeurIPS 2024)'
-slidesurl: 'http://yourwebsite.com/files/slides-ethical-llms.pdf'
-paperurl: 'http://yourwebsite.com/files/paper-ethical-llms.pdf'
+venue: 'Accepted at Conference on Language Modeling (COLM 2025)'
+paperurl: 'https://openreview.net/forum?id=colm2025-ethical-example'
 bibtexurl: 'http://yourwebsite.com/files/bibtex-ethical-llms.bib'
-citation: 'John Smith, et al. (2025). "Ethical Considerations in Deploying LLMs for Real-World Applications." <i>Advances in Neural Information Processing Systems 37 (NeurIPS 2024)</i>.'
+citation: 'John Smith, et al. (2025). "Ethical Frameworks for Responsible Large Language Model Deployment." <i>Accepted at Conference on Language Modeling (COLM 2025)</i>.'
 ---
